@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/TANATOPRAXIA_CF2/](https://ecored-sena.github.io/TANATOPRAXIA_CF2/)
+[https://ecored-sena.github.io/EMBALSAMIENTO_PERSONAS_FALLECIDAS_CF2/](https://ecored-sena.github.io/EMBALSAMIENTO_PERSONAS_FALLECIDAS_CF2)
 
 #
 
