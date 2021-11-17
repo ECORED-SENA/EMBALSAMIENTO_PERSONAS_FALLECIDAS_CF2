@@ -1,0 +1,424 @@
+/*colores*/
+.cp
+  color: $color-primario !important
+
+.fcp
+  background-color: $color-primario !important
+
+.cac
+  color: $color-acento-contenido !important
+
+.cst
+  color: $color-sistema-texto !important
+
+/*backgrounds*/
+.bloque-texto-b.color-secundario
+  &::before
+    background-color: #EEEEF2 !important
+    opacity: .6
+
+.fblanco
+  background-color: #FFFFFF !important
+
+.fcb
+  background-color: #f6f6f6 !important
+
+.fcp20
+  background-color: #D1EBEA !important
+
+.fnegro
+  background-color: #1D272B !important
+
+.tarjeta--container
+  .tarjeta.color-secundario
+    background-color: #EEEEF2 !important
+
+.tarjeta--container
+  .tarjeta.color-primario
+    background-color: #A6DAD7 !important
+
+/*Estilos de texto*/
+.text-right
+  text-align: right
+
+//Personalización componentes
+.pasos-a__circle
+  width: 58px
+  height: 58px
+  min-width: 50px
+  border-radius: 50%
+
+.pasos-a.color-primario .pasos-a__circle 
+  background-color: #FFF
+  border: 3px solid #1D272B
+
+.pasos-a.color-primario .pasos-a__circle div
+  color: #00978E
+  font-size: 28px
+
+.pasos-a.color-primario .pasos-a__numero::after
+  border-left-color: #1D272B
+.pasos-a.color-primario .pasos-a__linea__esquina__linea
+  border-color: #1D272B
+.pasos-a.color-primario .pasos-a__linea .hor-line
+  border-top-color: #1D272B
+
+.tarjeta-white
+  background-color: #F6F6F6
+  box-shadow: 0px 0px 8px 0px #DEDEDE
+  background: url('../assets/curso/bg-line1.svg')
+  background-position: right
+  background-size: auto
+  background-repeat: no-repeat
+  &--color-red
+    background-color: #F6F6F6
+    box-shadow: 0px 0px 8px 0px #DEDEDE
+    background: url('../assets/curso/bg-line2.svg')
+    background-position: right
+    background-size: auto
+    background-repeat: no-repeat
+  &--color-yellow
+    background-color: #F6F6F6
+    box-shadow: 0px 0px 8px 0px #DEDEDE
+    background: url('../assets/curso/bg-line3.svg')
+    background-position: right
+    background-size: 8px
+    background-repeat: no-repeat
+  &--color-black
+    background-color: #F6F6F6
+    box-shadow: 0px 0px 8px 0px #DEDEDE
+    background: url('../assets/curso/bg-line4.svg')
+    background-position: right
+    background-size: 8px
+    background-repeat: no-repeat
+  &--color-blue
+    background-color: #F6F6F6
+    box-shadow: 0px 0px 8px 0px #DEDEDE
+    background: url('../assets/curso/bg-line5.svg')
+    background-position: right
+    background-size: auto
+    background-repeat: no-repeat
+
+$tarjeta-dimension-height2: 420px
+$tarjeta-dimension-weight2: 230px
+
+.tarjeta-container2
+  position: relative
+  overflow: hidden
+  width: $tarjeta-dimension-weight2
+  height: $tarjeta-dimension-height2
+  border-radius: 0    
+  
+  .tarjetaContent2
+    position: relative    
+    top: 0 
+    left: 0      
+    transition: all 0.45s 0s ease
+    .tarjetaImg2
+      display: flex
+      flex-direction: column
+      justify-content: center
+      align-items: center          
+      width: $tarjeta-dimension-weight2
+      height: $tarjeta-dimension-height2
+      padding: 2rem
+      text-align: center
+    .tarjetaTxt2 
+      display: flex
+      flex-direction: column
+      justify-content: start
+      align-items: start          
+      width: $tarjeta-dimension-weight2
+      height: $tarjeta-dimension-height2
+      padding: 0rem
+      text-align: start
+      background-color: #F6F6F6
+      background-position: top
+      background-size: auto
+      background-repeat: no-repeat
+      
+    .tarjetaTxt3
+      display: flex
+      flex-direction: column
+      justify-content: start
+      align-items: start          
+      width: $tarjeta-dimension-weight2
+      height: $tarjeta-dimension-height2
+      padding: 0rem
+      text-align: start
+      background-color: #D1EBEA
+      background-position: top
+      background-size: auto
+      background-repeat: no-repeat
+      
+  &:hover
+    .tarjetaContent2
+      top: -($tarjeta-dimension-height2)
+
+.tarjeta-oscura
+  background: linear-gradient(180deg,#f5f5f5,#E7EDED)
+  .tarjetaContent2
+    .tarjetaImg2
+      border-top: 7px solid #1D272B
+    .tarjetaTxt2
+      border-top: 7px solid #1D272B
+    .tarjetaTxt3
+      border-top: 7px solid #1D272B
+
+.tarjeta-verde
+  background: linear-gradient(180deg,#f5f5f5,#E7EDED)
+  .tarjetaContent2
+    .tarjetaImg2
+      border-top: 7px solid #008F85
+    .tarjetaTxt2
+      border-top: 7px solid #008F85
+    .tarjetaTxt3
+      border-top: 7px solid #008F85
+
+.bg-num1
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+  background-image: url('../assets/curso/nbg1.png')
+.bg-num2
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+  background-image: url('../assets/curso/nbg2.png')
+.bg-num3
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+  background-image: url('../assets/curso/nbg3.png')
+.bg-num4
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+  background-image: url('../assets/curso/nbg4.png')
+.bg-num5
+  background-position: left top
+  background-size: auto
+  background-repeat: no-repeat
+  background-image: url('../assets/curso/nbg5.png')
+
+.afterCP1
+  border-radius: 1rem
+  &::after
+    content: ''
+    display: block
+    position: relative
+    background-color: #00978E
+    width: 100%
+    height: 4px
+    bottom: -52px
+
+.w85px
+  width: 85px
+  margin-left: auto
+  margin-right: auto
+
+.mw155px
+  width: 60px !important
+  margin-left: auto
+  margin-right: auto
+
+.mw115px
+  max-width: 115px
+
+.h500px
+  min-height: 500px
+
+.bb
+  border-bottom: solid 5px
+  &--cp
+    border-bottom-color: $color-primario
+  &--cac
+    border-bottom-color: $color-acento-contenido
+  &--cab
+    border-bottom-color: $color-acento-botones
+
+.mmw
+  max-width: 320px
+  min-width: 230px
+
+.bt
+  border-top: solid 5px
+  &--cp
+    border-top-color: $color-primario
+  &--cac
+    border-top-color: $color-acento-contenido
+  &--cab
+    border-bottom-color: $color-acento-botones
+
+.bs30
+  box-shadow: 0 0 3px rgba(0,0,0,0.3)
+
+.h200px
+  height: 200px
+
+.bordeLnegro
+  border-left: solid 3px #1d1d1d
+  padding-left: 1rem
+
+@media screen and ( min-width: 992px )
+  .noMobile
+    display: block
+
+  .onlyMobile
+    display: none
+  
+  .contenedorNegro
+    position: relative
+    .p-5
+      position: absolute
+      top: 50%
+      transform: translateY(-50%)
+
+  .sbg1
+    background-image: url('../assets/curso/banner-bg.png')
+    background-position: center center
+    background-size: cover
+
+  .bg2
+    background-image: url('../assets/curso/bg3.png')
+    background-position: center 250px
+    background-attachment: fixed
+    background-size: 100%
+
+  .bg3
+    background-image: url('../assets/curso/bg4.png')
+    background-position: center left
+    background-size: cover
+
+  .bg4
+    background-image: url('../assets/curso/bg5.png')
+    background-position: center right
+    background-size: cover
+
+  .bg5
+    background-image: url('../assets/curso/bg6.png')
+    background-position: center left
+    background-size: cover
+
+  .bg6
+    background-image: url('../assets/curso/bg7.png')
+    background-position: center right
+    background-size: cover
+
+  .bg7
+    background-image: url('../assets/curso/bg8.png')
+    background-position: center right
+    background-size: cover
+
+  .bg8
+    background-image: url('../assets/curso/bg9.png')
+    background-position: center right
+    background-size: cover
+
+  .bg9
+    background-image: url('../assets/curso/bg10.png')
+    background-position: center left
+    background-size: cover
+
+  .bg10
+    background-image: url('../assets/curso/bg11.png')
+    background-position: center right
+    background-size: cover
+
+  .t2BG1
+    //background-image: url('../assets/curso/t2/bg3.png')
+    background-position: center right
+    background-size: cover
+
+  .t2BG2
+    //background-image: url('../assets/curso/t2/bg1.png')
+    background-position: center center
+    background-size: auto
+    margin: -3rem
+    padding: 3rem
+
+  .t3BG1
+    //background-image: url('../assets/curso/t3/bg1.png')
+    background-position: center right
+    background-size: cover
+
+  .flechitaBefore
+    &::before
+      content: ''
+      //background-image: url('../assets/curso/t2/flechita1.svg')
+      width: 35px
+      height: 87px
+      position: absolute
+      margin-top: 50px
+      margin-left: -40px
+      background-repeat: no-repeat
+
+@media screen and ( max-width: 991px )
+  figure
+    img
+      max-width: 350px
+      margin-left: auto
+      margin-right: auto 
+      margin-bottom: 1rem
+
+  .onlyMobile
+    display: block
+
+  .noMobile
+    display: none
+
+  .sm-fg
+    background-color: #f6f6f6
+
+.bloque-texto-a.color-secundario
+  background-color: #A6DAD7 !important
+  &::before
+    background-color: #EEEEF2 !important
+
+.boxShadow
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.35)
+
+.hScroll
+  display: inline-flex
+  overflow: auto
+  .col-12
+    background-color: white
+
+.contenedor
+  margin: 1rem -3rem
+  padding:  3rem
+
+/*.row
+  margin-top: 1rem
+  margin-bottom: 1rem
+.col.m-0.fnegro
+  figure
+    width: 250px
+  .p-5
+    figure
+      width: 250px
+
+.cajon-c.color-primario:before
+  background-color: #00978E
+  
+.cajon-c
+  position: relative
+  &::before
+    content: ''
+    display: block
+    position: absolute
+    opacity: .35
+    bottom: 0
+    right: 0
+    left: 60%
+    top: 50%
+    mix-blend-mode: multiply
+
+.line 
+  background-color: orange !important
+
+.handle
+  border: 2px solid orange !important
+  height: 40px
+  width: 40px
+  background-color: orange !important
