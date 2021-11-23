@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Embalsamar la persona fallecida',
     descripcionCurso:
-      'El presente componente de formación surge de la necesidad identificar el proceso que se realiza para el embalsamamiento de un cadáver de acuerdo a la normatividad vigente y protocolos técnicos.  En este proceso se involucra la identificación de químicos que contribuyen a retardar la descomposición del cuerpo para que se realice su ritual de despedida. Bienvenido.',
+      'El presente componente de formación surge de la necesidad de identificar el proceso que se realiza para el embalsamamiento de un cadáver de acuerdo a la normatividad vigente y protocolos técnicos.  En este proceso se involucra la identificación de químicos que contribuyen a retardar la descomposición del cuerpo para que se realice su ritual de despedida. Bienvenido.',
     imagenBannerPrincipal: require('@/assets/curso/banner-img.svg'),
     fondoBannerPrincipal: require('@/assets/curso/banner-bg.png'),
   },
@@ -119,20 +119,6 @@ export default {
   referencias: [
     {
       referencia:
-        'De la Cruz, D. y Holmes, R. (2018). Turning art into science. Tuesday Evening Publications.',
-    },
-    {
-      referencia:
-        'Diccionario médico. (s.f.). Sutura en bolsa de tabaco. Cun.es. ',
-      link:
-        'https://www.cun.es/diccionario-medico/terminos/sutura-bolsa-tabaco ',
-    },
-    {
-      referencia:
-        'Mayer, R. (2006). Embalsamamiento. Historia, teoría y práctica. McGraw Hill.',
-    },
-    {
-      referencia:
         'Resolución 0773 de 2021. [Ministerio del Trabajo]. Por la cual se definen las acciones que deben desarrollar los empleadores para la aplicación del sistema globalmente armonizado de clasificación y etiquetado de productos químicos en los lugares de trabajo. ',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/61442826/0773.PDF/3047cc2b-eae1-e021-e9bf-d8c0eac23e05?t=1617984928238 ',
@@ -147,16 +133,6 @@ export default {
     },
   ],
   glosario: [
-    {
-      termino: 'Aurícula derecha',
-      significado:
-        'Cámara del lado derecho del corazón vista como el centro de drenaje. Se usa como un sitio de drenaje con instrumentos desde la vena yugular interna y de forma directa con un trocar o por la pared torácica.',
-    },
-    {
-      termino: 'Centro de distribución de los líquidos',
-      significado: 'Aorta ascendente.',
-    },
-    { termino: 'Dermis', significado: 'Piel real.' },
     {
       termino: 'Descomposición',
       significado:
@@ -180,7 +156,7 @@ export default {
     {
       termino: 'Glutaraldehído',
       significado:
-        'Está en la categoría de aldehído. Su uso en Tanatopraxia data de 1955, se encuentra en concentraciones acuosas del 25% con un olor suave y color claro. Su uso se ha extendido, ya que reacciona a estructuras de proteínas en un amplio rango de pH, por lo cual ayuda a retrasar los cambios de los procesos de descomposición.',
+        'Está en la categoría de aldehído. Su uso en tanatopraxia data de 1955, se encuentra en concentraciones acuosas del 25 % con un olor suave y color claro. Su uso se ha extendido, ya que reacciona a estructuras de proteínas en un amplio rango de pH, por lo cual ayuda a retrasar los cambios de los procesos de descomposición.',
     },
     {
       termino: 'Guías anatómicas',
@@ -188,7 +164,7 @@ export default {
         'Referencias descriptivas para localizar arterias y venas mediante las estructuras anatómicas conocidas.',
     },
     {
-      termino: 'Paraformaldehido',
+      termino: 'Paraformaldehído',
       significado:
         'Está en la categoría de aldehído. Este es polímero que contiene entre 85% y 99% de formaldehído, este se usa principalmente en polvo como compuesto de endurecimiento y para pulverizar las paredes toracoabdominales.',
     },
@@ -196,16 +172,6 @@ export default {
       termino: 'Químico para cavidades',
       significado:
         'Producto químico para embalsamar, que se inyecta en la cavidad del cadáver después de la aspiración en el embalsamamiento de la cavidad.',
-    },
-    {
-      termino: 'Surfactantes',
-      significado:
-        'Son químicos encargados de reducir la presión de superficie de la solución para que fluyan más fácilmente en el sistema circulatorio.',
-    },
-    {
-      termino: 'Trioxane',
-      significado:
-        'Está en la categoría de aldehído. Es un material cristalino incoloro, de olor parecido al cloroformo. También es usado como preservante auxiliar en los líquidos usados en tanatopraxia, pero resulta más costoso que otros líquidos, por ello no es muy común.',
     },
   ],
   complementario: [
@@ -236,7 +202,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Lina María Restrepo Zapata',
@@ -282,78 +248,49 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Jesús Antonio Vecino Valero',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Walter Roa Serrano',
+        nombre: 'Nombre',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Ángela María Maldonado Jaime',
-        cargo: 'Producción audiovisual',
-        centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Carmen Alicia Martínez Torres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Nelson Iván Vera Briceño',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Cáceres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy María Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Yuli Marcela Gómez Tarazona',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

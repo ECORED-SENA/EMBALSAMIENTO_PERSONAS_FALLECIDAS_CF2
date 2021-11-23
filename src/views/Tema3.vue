@@ -13,7 +13,7 @@
         figure
           img(src='@/assets/curso/t3/f1.svg' alt='Propósito de la tanatopraxia')
       .col-lg-9
-        p <b>El propósito de la tanatopraxia o embalsamamiento</b> como práctica y técnica es <b>retardar el proceso de descomposición de un cuerpo sin vida a causa de unos <span class="cac">procesos biológicos y fisicoquímicos.</span></b> Este proceso surge ante la necesidad de generar unas condiciones en el cadáver para <b><span class="cp">disminuir riesgos de salud pública durante el ritual de despedida y traslado final.</span></b> En la práctica, <b>el tanatopractor adecua el cuerpo sin vida en tres momentos, el primero es la desinfección, el segundo es la preservación química y el tercero es la tanatoestética;</b> estas etapas o momentos están interconectados; <b>se necesita de una desinfección para la preservación y arreglos estéticos del fallecido,</b> para efectos de este episodio se hará énfasis en la preservación química. 
+        p <b>El propósito de la tanatopraxia o embalsamamiento</b> como práctica y técnica es <b>retardar el proceso de descomposición de un cuerpo sin vida a causa de unos <span class="cac">procesos biológicos y fisicoquímicos.</span></b> Este proceso surge ante la necesidad de generar unas condiciones en el cadáver para <b><span class="cp">disminuir riesgos de salud pública durante el ritual de despedida y traslado final.</span></b> En la práctica, <b>el tanatopractor adecúa el cuerpo sin vida en tres momentos, el primero es la desinfección, el segundo es la preservación química y el tercero es la tanatoestética;</b> estas etapas o momentos están interconectados; <b>se necesita de una desinfección para la preservación y arreglos estéticos del fallecido,</b> para efectos de este episodio se hará énfasis en la preservación química. 
         .cajon.color-secundario.p-4
           p.mb-0 Antes de continuar es importante recordar <b>¿qué es la desinfección?, <span class="cp">¿de qué trata la tanatoestética?,</span></b> para ello, lea la siguiente información.
 
@@ -32,7 +32,7 @@
             figure
               img(src='@/assets/curso/t3/f3.svg', alt='imagen relacionada')
         h2.cst Tanatoestética
-        p.cst Si bien desde la desinfección y preservación se están generando las condiciones para una intervención estética del cadáver, se puede afirmar que este último momento se caracteriza por la adecuación física del fallecido orientada a una presentación de una imagen natural hacia sus deudos. 
+        p.cst Si bien desde la desinfección y preservación se están generando las condiciones para una intervención estética del cadáver, se puede afirmar que este último momento se caracteriza por la adecuación física del fallecido orientada a la presentación de una imagen natural hacia sus deudos. 
 
     .row.align-items-center.bg7.afterCP1.p-5.mb-5.sm-fg
       .col-lg-1(data-aos="fade-right")
@@ -54,7 +54,7 @@
     .row.align-items-center.mb-4
       .col-lg-9
         p Una vez culminada la <b>inyección arterial se procede a la preservación de los órganos toraco abdominales pélvicos en el que se extraen líquidos, sólidos, semisólidos y gases presentes en esa zona.</b> Esta acción comienza con la <b><span class="cp">aplicación del líquido preservante especializado para cavidad,</span></b> este se debe dejar actuar durante un tiempo que cada cuerpo lo requiera. 
-        p Cabe mencionar que <b></b> Si bien este es el proceso descrito de forma general, se invita a continuar su lectura para la apropiación de información que le ayude al desarrollo de las actividades de aprendizaje. 
+        p Cabe mencionar que que el tanatopractor tiene la posibilidad de extraer el exceso de líquidos que quedan presentes en el cadáver, y finalizar con el secado y cierre de todas las incisiones que se realizaron al cuerpo. <b></b> Si bien este es el proceso descrito de forma general, se invita a continuar su lectura para la apropiación de información que le ayude al desarrollo de las actividades de aprendizaje. 
       .col-lg-3.order-first.order-lg-last
         figure
           img(src='@/assets/curso/t3/f5.png', alt='Proceso natural de la muerte, cuerpo humano')

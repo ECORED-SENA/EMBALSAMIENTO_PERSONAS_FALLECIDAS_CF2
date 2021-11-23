@@ -8,7 +8,7 @@
         span 2
       h1 Descomposición en la tanatopraxia
 
-    p.mb-5 Como se ha mencionado, <b>la muerte es la ruptura del equilibrio biológico y fisicoquímico de un cuerpo.</b> Cuando el cuerpo yace inerte llegan reacciones que poco a poco conducen a su descomposición, <b><span class="cp">que en el contexto de la tanatopraxia,</span> hace referencia a un cambio biológico y fisicoquímico de las estructuras corporales.</b> Este fenómeno también se le conoce como <em><b><span class="cac">post-mortem</span></b></em>; cabe mencionar que un cuerpo presenta síntomas de descomposición, la muerte es innegable. <b>La descomposición como desestructuración corporal tiene dos perspectivas,</b> estas son:
+    p.mb-5 Como se ha mencionado, <b>la muerte es la ruptura del equilibrio biológico y fisicoquímico de un cuerpo.</b> Cuando el cuerpo yace inerte llegan reacciones que poco a poco conducen a su descomposición, <b><span class="cp">que en el contexto de la tanatopraxia,</span> hace referencia a un cambio biológico y fisicoquímico de las estructuras corporales.</b> Este fenómeno también se le conoce como <em><b><span class="cac">post-mortem</span></b></em>; cabe mencionar que en un cuerpo que presenta síntomas de descomposición, la muerte es innegable. <b>La descomposición como desestructuración corporal tiene dos perspectivas,</b> estas son:
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-secundario.p-5.text-center
@@ -37,7 +37,7 @@
           p Cuando cesa la actividad en el cuerpo humano comienza la descomposición generalizada de los azúcares y de algunos carbohidratos.  A este acontecimiento se le llama sacarólisis. 
       .row.align-items-center
         .col
-          p Tiempo después del fallecimiento de una persona comienza la presencia de bacterias aeróbicas, es decir, de microrganismos que necesitan de oxigeno, a lo que se le llama fermentación. 
+          p Tiempo después del fallecimiento de una persona comienza la presencia de bacterias aeróbicas, es decir, de microorganismos que necesitan de oxígeno, a lo que se le llama fermentación. 
         .col-lg-2.col-md-3.order-first.order-lg-last
           figure
             img(src='@/assets/curso/t2/f4.svg', alt='imagen relacionada').mw155px
@@ -50,7 +50,7 @@
           p Como última etapa de la descomposición celular, al desestructurarse las cadenas enzimáticas aparecen las putrecinas, cadaverinas y finalmente, los lixiviados. 
       .row.align-items-center
         .col
-          p Lentamente los cambios en el cuerpo sin vida no cesan, los lípidos o grasas corporales se descomponen por efecto de la autolítica. A comparación de otros efectos con la lipólisis no se generan malos olores. 
+          p Lentamente los cambios en el cuerpo sin vida no cesan, los lípidos o grasas corporales se descomponen por efecto de la autolítica. A comparación de otros efectos, con la lipólisis no se generan malos olores. 
         .col-lg-2.col-md-3.order-first.order-lg-last
           figure
             img(src='@/assets/curso/t2/f6.svg', alt='imagen relacionada').mw155px
@@ -89,7 +89,7 @@
                   li 
                     .lista-ol--cuadro__vineta.fcp
                       span 2
-                    | El amoniaco y sus derivados es una amina y tiende a enlazarse con el formaldehído, haciéndo perder su efectividad, por lo cual se incrementará la demanda de solución preservante en el cuerpo.
+                    | El amoniaco y sus derivados es una amina y tiende a enlazarse con el formaldehído, haciéndolo perder su efectividad, por lo cual se incrementará la demanda de solución preservante en el cuerpo.
                   li 
                     .lista-ol--cuadro__vineta.fcp
                       span 3
@@ -105,13 +105,13 @@
                   li 
                     .lista-ol--cuadro__vineta.fcp
                       span 6
-                    | Ácidos fosfóricos y sulfúricos, nitrógeno, dióxido de carbono, agua son producidos por la degradación de los ácidos nucleicos y su efecto en el cadáver son las decoloraciones y olores asociados con la descomposición.
+                    | Ácidos fosfóricos y sulfúricos, nitrógeno, dióxido de carbono, agua, son producidos por la degradación de los ácidos nucleicos y su efecto en el cadáver son las decoloraciones y olores asociados con la descomposición.
 
     Separador
     #t_2_1.titulo-segundo
       h2 2.1 Tipos de descomposición
 
-    p.mb-5 <b>Entre el período del fallecimiento y el embalsamamiento</b> la condición del cuerpo y la composición de este sigue cambiando y sí hay influencia interna, <b><span class="cp">actividad química o externa</span></b>, por la naturaleza se presentarán mayores cambios en la descomposición de los cuerpos. A continuación, se presentan los <b>diferentes tipos de descomposición según las condiciones presentadas por el cadáver al momento del fallecimiento y según el medio que lo rodea.</b>
+    p.mb-5 <b>Entre el período del fallecimiento y el embalsamamiento</b> la condición del cuerpo y la composición de este sigue cambiando y si hay influencia interna <b><span class="cp">actividad química o externa</span></b>, por la naturaleza, se presentarán mayores cambios en la descomposición de los cuerpos. A continuación, se presentan los <b>diferentes tipos de descomposición según las condiciones presentadas por el cadáver al momento del fallecimiento y según el medio que lo rodea.</b>
 
     .row.mb-5
       .col-lg-7.order-last.order-lg-first
@@ -183,7 +183,7 @@
                 .tarjeta.tarjeta-white.tarjeta-white--color-yellow
                   .p-4.ps-0.py-5
                     h4 Temperatura
-                    p.mb-0 la descomposición es más rápida en agua caliente y más lenta en agua fría.
+                    p.mb-0 La descomposición es más rápida en agua caliente y más lenta en agua fría.
               .tarjeta-avatar-b.mb-4
                 .tarjeta-avatar-b__img(data-aos="fade-right")
                   img.mx-auto(src='@/assets/curso/t2/f14.svg' alt='Imagen relacionada' style='width:71px;')
@@ -206,7 +206,7 @@
     #t_2_2.titulo-segundo
       h2 2.2 Orden de descomposición del cuerpo humano
 
-    p.mb-5 Al iniciarse el <b>proceso de descomposición en el cuerpo</b> se presentan varios cambios, <b><span class="cac">tanto químicos como físicos,</span></b> conocidos como cambios <b><em>post-mortem</em>, <span class="cp">como ya se ha mencionado los primeros cambios químicos ocurren a nivel intracelular,</span></b> por ello es de esperarse <b>que en los órganos y tejidos se presente un reordenamiento de la estructura y formación.</b> Como consecuencia de esto se genera un <b>orden de descomposición tanto a nivel celular, de tejidos y de órganos,</b> por tanto, identifique en el siguiente recurso de aprendizaje cómo sucede.
+    p.mb-5 Al iniciarse el <b>proceso de descomposición en el cuerpo</b> se presentan varios cambios, <b><span class="cac">tanto químicos como físicos,</span></b> conocidos como <b><em>cambios post-mortem</em>, <span class="cp">como ya se ha mencionado, los primeros cambios químicos ocurren a nivel intracelular,</span></b> por ello es de esperarse <b>que en los órganos y tejidos se presente un reordenamiento de la estructura y formación.</b> Como consecuencia de esto se genera un <b>orden de descomposición tanto a nivel celular, de tejidos y de órganos,</b> por tanto, identifique en el siguiente recurso de aprendizaje cómo sucede.
 
     PasosA.color-primario.mb-5(tipo="n")
       .row.align-items-center
@@ -238,7 +238,7 @@
           figure
             img(src='@/assets/curso/t2/f20.svg', alt='imagen relacionada').mw155px
 
-    p.mb-5 Solo hay dos excepciones en este orden, estas son: 
+    p.mb-5 <b>Solo hay dos excepciones en este orden, estas son: </b>
     .row.align-items-center.mb-5
       .col-lg-4
         figure
@@ -247,7 +247,7 @@
         .tarjeta-avatar-b.mb-4
           .tarjeta-avatar-b__img(data-aos="fade-right")
             img.mx-auto(src='@/assets/curso/t2/f22.svg' alt='Imagen relacionada' style='width:71px;')
-          .tarjeta.tarjeta-white.tarjeta-white--color-yellow
+          .tarjeta.tarjeta-white.tarjeta-white--color-green
             .p-4.ps-0.py-5
               p.mb-0 En el caso de los recién nacidos se descompone primero el cerebro, debido a que el cráneo no se ha cerrado completamente y hay mucho contenido de bacterias.
         .tarjeta-avatar-b.mb-4
@@ -261,7 +261,7 @@
     #t_2_3.titulo-segundo
       h2 2.3 Períodos y signos de la descomposición
 
-    p.mb-5 El <b>proceso de descomposición de un cuerpo sin vida</b> pasa por varios estados: invisibles, involucra una <b><span class="cp">descomposición microscópica</span></b> porque al terminarse la reserva de oxígeno presente al momento de la muerte e iniciados <b>los procesos autolíticos estas células mueren y dan paso a los nuevos compuestos químicos, producto de la descomposición que al cabo de unas horas se hará visible y con esta se iniciara la segunda etapa de descomposición</b> donde se hace  físicamente visible la destrucción de los tejidos. Para identificar lo que sucede en el cuerpo según su período observe el siguiente recurso educativo.
+    p.mb-5 El <b>proceso de descomposición de un cuerpo sin vida</b> pasa por varios estados: invisibles, involucra una <b><span class="cp">descomposición microscópica</span></b> porque al terminarse la reserva de oxígeno presente al momento de la muerte e iniciados <b>los procesos autolíticos estas células mueren y dan paso a los nuevos compuestos químicos, producto de la descomposición que al cabo de unas horas se hará visible y con esta se iniciará la segunda etapa de descomposición</b> donde se hace  físicamente visible la destrucción de los tejidos. Para identificar lo que sucede en el cuerpo según su período observe el siguiente recurso educativo.
 
     figure.mb-5
       .video

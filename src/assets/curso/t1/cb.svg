@@ -6,23 +6,25 @@
       <stop offset="0.715" stop-color="#fff"/>
     </radialGradient>
   </defs>
-  <g id="Grupo_134236" data-name="Grupo 134236" transform="translate(-647.543 -7038.737)">
-    <g id="Group_18531" data-name="Group 18531" transform="translate(647.543 7038.737)">
-      <g id="Group_18423" data-name="Group 18423">
-        <g id="Group_18421" data-name="Group 18421">
-          <g id="Group_18420" data-name="Group 18420">
-            <g id="Group_18419" data-name="Group 18419">
-              <path id="Path_40936" data-name="Path 40936" d="M201.954,554.407a39.577,39.577,0,1,1-39.578-39.575h0A39.576,39.576,0,0,1,201.954,554.407Z" transform="translate(-122.8 -514.832)" fill="#fff"/>
+  <g id="Grupo_133744" data-name="Grupo 133744" transform="translate(-647.543 -7038.737)">
+    <g id="Group_87331" data-name="Group 87331" transform="translate(647.543 7038.737)">
+      <g id="Group_18531" data-name="Group 18531">
+        <g id="Group_18423" data-name="Group 18423">
+          <g id="Group_18421" data-name="Group 18421">
+            <g id="Group_18420" data-name="Group 18420">
+              <g id="Group_18419" data-name="Group 18419">
+                <path id="Path_40936" data-name="Path 40936" d="M201.954,554.407a39.577,39.577,0,1,1-39.578-39.575h0A39.576,39.576,0,0,1,201.954,554.407Z" transform="translate(-122.8 -514.832)" fill="#fff"/>
+              </g>
             </g>
           </g>
-        </g>
-        <path id="Path_40937" data-name="Path 40937" d="M201.953,554.407a39.42,39.42,0,1,0,0,.312Z" transform="translate(-122.799 -514.832)" fill="url(#radial-gradient)"/>
-        <path id="Path_40938" data-name="Path 40938" d="M190.028,551.858a30.209,30.209,0,1,0-30.209,30.209h0a30.1,30.1,0,0,0,30.209-29.984Z" transform="translate(-120.122 -512.151)" fill="none" stroke="#1d272b" stroke-miterlimit="10" stroke-width="3"/>
-        <g id="Group_18422" data-name="Group 18422" transform="translate(7.012 22.22)">
-          <path id="Path_40939" data-name="Path 40939" d="M195.973,530.78a39.581,39.581,0,0,1-68.14,39.411,39.456,39.456,0,0,0,68.14-39.411Z" transform="translate(-127.833 -530.78)" fill="#e7e9eb"/>
+          <path id="Path_40937" data-name="Path 40937" d="M201.953,554.407a39.42,39.42,0,1,0,0,.312Z" transform="translate(-122.799 -514.832)" fill="url(#radial-gradient)"/>
+          <path id="Path_40938" data-name="Path 40938" d="M190.028,551.858a30.209,30.209,0,1,0-30.209,30.209h0a30.1,30.1,0,0,0,30.209-29.984Z" transform="translate(-120.122 -512.151)" fill="none" stroke="#1d272b" stroke-miterlimit="10" stroke-width="3"/>
+          <g id="Group_18422" data-name="Group 18422" transform="translate(7.012 22.22)">
+            <path id="Path_40939" data-name="Path 40939" d="M195.973,530.78a39.581,39.581,0,0,1-68.14,39.411,39.456,39.456,0,0,0,68.14-39.411Z" transform="translate(-127.833 -530.78)" fill="#e7e9eb"/>
+          </g>
         </g>
       </g>
+      <path id="Trazado_173953" data-name="Trazado 173953" d="M21.211-10.371q0,5.078-2.168,7.92A7.181,7.181,0,0,1,12.988.391,6.6,6.6,0,0,1,7.5-2.246L7.246,0H2.168V-30H7.813v10.762a6.428,6.428,0,0,1,5.137-2.285,7.241,7.241,0,0,1,6.064,2.842q2.2,2.842,2.2,8Zm-5.645-.41a8.407,8.407,0,0,0-1.016-4.678,3.434,3.434,0,0,0-3.027-1.475,3.723,3.723,0,0,0-3.711,2.207v8.34a3.774,3.774,0,0,0,3.75,2.227,3.485,3.485,0,0,0,3.594-2.7A13.9,13.9,0,0,0,15.566-10.781Z" transform="translate(29.457 53.263)" fill="#1d272b"/>
     </g>
-    <text id="b" transform="translate(677 7092)" fill="#1d272b" font-size="40" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">b</tspan></text>
   </g>
 </svg>
