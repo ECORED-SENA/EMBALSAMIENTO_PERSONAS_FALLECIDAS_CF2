@@ -14,7 +14,7 @@
           img(src='@/assets/curso/t1/f1.png' alt='La muerte como experiencia')
       .col-lg-7
         p Desde hace <b>miles de años el hombre ha realizado rituales para darle explicación a los fenómenos que ocurren en la cotidianidad de la vida como nacer, crecer y morir.</b> Siendo de estos, <b><span class="cp">la muerte una experiencia rodeada de tabú y explicaciones en todas las religiones, culturas y épocas del ser humano.</span></b>  
-        p Históricamente se tiene evidencia que incluso <b>desde la época de los neandertales, aproximadamente 400.000 años a.C.,</b> se <b><span class="cp">realizaban prácticas con los muertos, empezando por sus cuidados hasta su despedida.</span></b> El tratamiento que se le realiza a los cuerpos muertos ha marcado grandes momentos de la humanidad, en todos los tiempos y en todas las culturas se han realizado procesos para preservar el cuerpo y los vivos han realizado rituales de despedida. 
+        p Históricamente se tiene evidencia que incluso <b>desde la época de los neandertales, aproximadamente 400.000 años a. C.,</b> se <b><span class="cp">realizaban prácticas con los muertos, empezando por sus cuidados hasta su despedida.</span></b> El tratamiento que se le realiza a los cuerpos muertos ha marcado grandes momentos de la humanidad, en todos los tiempos y en todas las culturas se han realizado procesos para preservar el cuerpo y los vivos han realizado rituales de despedida. 
     
     .row.align-items-center.mb-5
       .col-lg-7.order-lg-first.order-last

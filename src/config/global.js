@@ -127,10 +127,6 @@ export default {
       referencia:
         'Serrano, V (2018). La química de los fenómenos cadavéricos. Universitat de València. ',
     },
-    {
-      referencia:
-        'The Dodge Company. (2008). The preparation room. The Dodge Company. ',
-    },
   ],
   glosario: [
     {
@@ -149,11 +145,6 @@ export default {
         'Proceso de tratamiento químico del cadáver para reducir la presencia y el crecimiento de microorganismos; retardar temporalmente la descomposición orgánica y restablecer un aspecto físico aceptable.',
     },
     {
-      termino: 'Gas en tejido',
-      significado:
-        'Acumulación postmortem de gas en tejido o cavidades, generada por un bacilo formador de gas anaerobio (clostridium perfringens).',
-    },
-    {
       termino: 'Glutaraldehído',
       significado:
         'Está en la categoría de aldehído. Su uso en tanatopraxia data de 1955, se encuentra en concentraciones acuosas del 25 % con un olor suave y color claro. Su uso se ha extendido, ya que reacciona a estructuras de proteínas en un amplio rango de pH, por lo cual ayuda a retrasar los cambios de los procesos de descomposición.',
@@ -166,7 +157,7 @@ export default {
     {
       termino: 'Paraformaldehído',
       significado:
-        'Está en la categoría de aldehído. Este es polímero que contiene entre 85% y 99% de formaldehído, este se usa principalmente en polvo como compuesto de endurecimiento y para pulverizar las paredes toracoabdominales.',
+        'Está en la categoría de aldehído. Este es polímero que contiene entre 85 % y 99 % de formaldehído, este se usa principalmente en polvo como compuesto de endurecimiento y para pulverizar las paredes toracoabdominales.',
     },
     {
       termino: 'Químico para cavidades',
@@ -262,10 +253,39 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Ángela María Maldonado Jaime',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
@@ -287,6 +307,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Alvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

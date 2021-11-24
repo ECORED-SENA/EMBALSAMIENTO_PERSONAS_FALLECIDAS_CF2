@@ -111,7 +111,7 @@
     #t_2_1.titulo-segundo
       h2 2.1 Tipos de descomposición
 
-    p.mb-5 <b>Entre el período del fallecimiento y el embalsamamiento</b> la condición del cuerpo y la composición de este sigue cambiando y si hay influencia interna <b><span class="cp">actividad química o externa</span></b>, por la naturaleza, se presentarán mayores cambios en la descomposición de los cuerpos. A continuación, se presentan los <b>diferentes tipos de descomposición según las condiciones presentadas por el cadáver al momento del fallecimiento y según el medio que lo rodea.</b>
+    p.mb-5 <b>Entre el período del fallecimiento y el embalsamamiento</b> la condición del cuerpo y la composición de este sigue cambiando y si hay influencia interna, <b><span class="cp">actividad química o externa</span></b> por la naturaleza, se presentarán mayores cambios en la descomposición de los cuerpos. A continuación, se presentan los <b>diferentes tipos de descomposición según las condiciones presentadas por el cadáver al momento del fallecimiento y según el medio que lo rodea.</b>
 
     .row.mb-5
       .col-lg-7.order-last.order-lg-first
@@ -206,7 +206,7 @@
     #t_2_2.titulo-segundo
       h2 2.2 Orden de descomposición del cuerpo humano
 
-    p.mb-5 Al iniciarse el <b>proceso de descomposición en el cuerpo</b> se presentan varios cambios, <b><span class="cac">tanto químicos como físicos,</span></b> conocidos como <b><em>cambios post-mortem</em>, <span class="cp">como ya se ha mencionado, los primeros cambios químicos ocurren a nivel intracelular,</span></b> por ello es de esperarse <b>que en los órganos y tejidos se presente un reordenamiento de la estructura y formación.</b> Como consecuencia de esto se genera un <b>orden de descomposición tanto a nivel celular, de tejidos y de órganos,</b> por tanto, identifique en el siguiente recurso de aprendizaje cómo sucede.
+    p.mb-5 Al iniciarse el <b>proceso de descomposición en el cuerpo</b> se presentan varios cambios, <b><span class="cac">tanto químicos como físicos,</span></b> conocidos como cambios <b><em>post-mortem</em>, <span class="cp">como ya se ha mencionado, los primeros cambios químicos ocurren a nivel intracelular,</span></b> por ello es de esperarse <b>que en los órganos y tejidos se presente un reordenamiento de la estructura y formación.</b> Como consecuencia de esto se genera un <b>orden de descomposición tanto a nivel celular, de tejidos y de órganos,</b> por tanto, identifique en el siguiente recurso de aprendizaje cómo sucede.
 
     PasosA.color-primario.mb-5(tipo="n")
       .row.align-items-center
