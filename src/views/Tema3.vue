@@ -54,7 +54,7 @@
     .row.align-items-center.mb-4
       .col-lg-9
         p Una vez culminada la <b>inyección arterial se procede a la preservación de los órganos toraco abdominales pélvicos en el que se extraen líquidos, sólidos, semisólidos y gases presentes en esa zona.</b> Esta acción comienza con la <b><span class="cp">aplicación del líquido preservante especializado para cavidad,</span></b> este se debe dejar actuar durante un tiempo que cada cuerpo lo requiera. 
-        p #[strong Cabe mencionar que que el tanatopractor tiene la posibilidad de extraer el exceso de líquidos que quedan presentes en el cadáver, y finalizar con el secado y cierre de todas las incisiones que se realizaron al cuerpo.] Si bien este es el proceso descrito de forma general, se invita a continuar su lectura para la apropiación de información que le ayude al desarrollo de las actividades de aprendizaje. 
+        p #[strong Cabe mencionar que el tanatopractor tiene la posibilidad de extraer el exceso de líquidos que quedan presentes en el cadáver, y finalizar con el secado y cierre de todas las incisiones que se realizaron al cuerpo.] Si bien este es el proceso descrito de forma general, se invita a continuar su lectura para la apropiación de información que le ayude al desarrollo de las actividades de aprendizaje. 
       .col-lg-3.order-first.order-lg-last
         figure
           img(src='@/assets/curso/t3/f5.png', alt='Proceso natural de la muerte, cuerpo humano')
